@@ -1,0 +1,64 @@
+{
+    "create_ts": "2021-02-04 12:25:21.460703",
+    "task_id": "af13e8ec-418d-4f4b-8d6a-bb755bc0efd1",
+    "version_id": "e7fbb9a3-296b-4a1c-a45e-97c9b489ed6f",
+    "task_name": "hma_check_feedback_file_exists",
+    "task_class": "xpms_lib_dag.tasks.function_task.FunctionTask",
+    "name": "version 1",
+    "description": "imported git function",
+    "start": null,
+    "end": null,
+    "tasks": {},
+    "config": {
+        "source": "af13e8ec-418d-4f4b-8d6a-bb755bc0efd1_e7fbb9a3-296b-4a1c-a45e-97c9b489ed6f",
+        "files": [
+            "functions/af13e8ec-418d-4f4b-8d6a-bb755bc0efd1/e7fbb9a3-296b-4a1c-a45e-97c9b489ed6f/af13e8ec-418d-4f4b-8d6a-bb755bc0efd1_e7fbb9a3-296b-4a1c-a45e-97c9b489ed6f.py"
+        ],
+        "function_name": "hma_check_feedback_file_exists",
+        "exec_grp_id": "0c29aec5-3744-45c0-93d5-eccf0f91b227"
+    },
+    "exec_type": null,
+    "category": "functions",
+    "is_enabled": true,
+    "is_published": true,
+    "is_deleted": false,
+    "compatible_groups": [
+        "default_dependency_package_group"
+    ],
+    "extras": {
+        "x_config": [
+            {
+                "options": [
+                    "any",
+                    "all"
+                ],
+                "is_option_object": false,
+                "display_key": null,
+                "value_key": null,
+                "name": "dependencies",
+                "description": "dependency on previous tasks to run",
+                "data_type": "string",
+                "op_type": "categorical",
+                "value": "any",
+                "multi_select": false,
+                "hidden": false,
+                "config_path": "config.dependencies",
+                "ui_component": "",
+                "_XpmsObjectMixin__type": "CategoricalListConfiguration",
+                "_XpmsObjectMixin__api_version": "9.5"
+            }
+        ]
+    },
+    "next": [],
+    "previous": [],
+    "timeout": 3000,
+    "retries": 0,
+    "instance_id": "tDffPhCdRRK5k_vgkei5Pg",
+    "created_by": "system",
+    "modified_by": "system",
+    "cts": "",
+    "uts": "",
+    "_XpmsObjectMixin__type": "Task",
+    "_XpmsObjectMixin__api_version": "9.5",
+    "exec_grp_id": "0c29aec5-3744-45c0-93d5-eccf0f91b227"
+}
