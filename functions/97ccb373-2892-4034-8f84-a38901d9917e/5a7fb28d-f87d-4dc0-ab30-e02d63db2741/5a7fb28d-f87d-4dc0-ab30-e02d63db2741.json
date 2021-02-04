@@ -1,0 +1,20 @@
+{
+    "name": "version 1",
+    "description": "",
+    "created_by": "system",
+    "modified_by": "system",
+    "cts": "2021-02-04T12:29:02.782670",
+    "uts": "2021-02-04T12:29:02.782683",
+    "_XpmsObjectMixin__type": "CustomFunctionVersion",
+    "_XpmsObjectMixin__api_version": "9.5",
+    "is_enabled": false,
+    "is_deleted": false,
+    "is_default": true,
+    "is_published": false,
+    "function_id": "97ccb373-2892-4034-8f84-a38901d9917e",
+    "function_name": "hma_feature_selection",
+    "version_id": "5a7fb28d-f87d-4dc0-ab30-e02d63db2741",
+    "function_path": "functions/97ccb373-2892-4034-8f84-a38901d9917e/5a7fb28d-f87d-4dc0-ab30-e02d63db2741/97ccb373-2892-4034-8f84-a38901d9917e_5a7fb28d-f87d-4dc0-ab30-e02d63db2741.py",
+    "func_ipynb_path": "functions/97ccb373-2892-4034-8f84-a38901d9917e/5a7fb28d-f87d-4dc0-ab30-e02d63db2741/97ccb373-2892-4034-8f84-a38901d9917e_5a7fb28d-f87d-4dc0-ab30-e02d63db2741.ipynb",
+    "config": []
+}
