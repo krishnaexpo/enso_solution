@@ -5,7 +5,7 @@
     "description": "imported git function",
     "cts": "2021-02-04T12:25:29.228859",
     "is_deleted": false,
-    "uts": "2021-02-04T12:25:29.228867",
+    "uts": "2021-02-09T08:55:57.613177",
     "default_version": "e7fbb9a3-296b-4a1c-a45e-97c9b489ed6f",
     "created_by": "system",
     "modified_by": "system",
@@ -24,5 +24,6 @@
     "exec_grp_id": "0c29aec5-3744-45c0-93d5-eccf0f91b227",
     "function_id": "af13e8ec-418d-4f4b-8d6a-bb755bc0efd1",
     "dependency_package": "default_dependency_package_group",
-    "resources": []
+    "resources": [],
+    "fetch_latest_status": "no change"
 }
